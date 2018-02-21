@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maze", "Maze\Maze.vcxproj", "{C970AF9F-0DEF-4D64-A553-79466DE2A5A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertMaze", "..\TextTest\ConvertMaze\ConvertMaze.csproj", "{7CA44603-4F47-47B1-AC7C-6ABC32D0C029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertMaze", "ConvertMaze\ConvertMaze.csproj", "{7CA44603-4F47-47B1-AC7C-6ABC32D0C029}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
